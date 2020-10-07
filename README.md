@@ -11,4 +11,4 @@ Demo gitflow
 
 *Hello new changes are made*
 
---Hello new changes are made--
+~~Hello new changes are made~~
